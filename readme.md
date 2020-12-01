@@ -3,7 +3,7 @@ Write a small multiplexer library that takes commands from the input stream (con
 
 This problem was basically a concept of decorator function, where route() was the outermost decorator.
 
-<h2>Decorator :<h2>
+<h2>Decorator :</h2>
 Decorators allow programmers to modify the behavior of a function or class. Decorators allow us to wrap another function in order to extend the behavior of the wrapped function, without permanently modifying it.
 
 <h2>How to Run the code :</h2>
