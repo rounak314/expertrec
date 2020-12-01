@@ -9,7 +9,7 @@ Decorators allow programmers to modify the behavior of a function or class. Deco
 <h1>How to Run the code :</h1>
 <ul>
 <li>Pull the code from the repository.</li>
-    # git clone repo_name
+    # git clone repo_name</br>
     # git pull origin master
 <li>Change the directory to the git directory in the terminal.</li>
 <li>Write the below code:</li>
@@ -22,7 +22,7 @@ more instructions can be added.
 <h1>Steps to add more responses :</h1>
 
 ‘’’
-  @app.route(‘message’)
-   def message():
+  @app.route(‘message’)</br>
+   def message():</br>
     return reply
 ‘’’
